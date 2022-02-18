@@ -36,11 +36,11 @@
 </div>
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Paguiar735/jarvis-does-trello?style=for-the-badge)
-![GitHub repo stars](https://img.shields.io/github/stars/Paguiar735/jarvis-does-trello?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Paguiar735/jarvis-does-trello?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/Paguiar735/jarvis-does-trello?style=for-the-badge)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr/Paguiar735/jarvis-does-trello?style=for-the-badge)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Paguiar735/jarvis-readme-template?style=for-the-badge)](#)
+[![GitHub repo stars](https://img.shields.io/github/stars/Paguiar735/jarvis-readme-template?style=for-the-badge)](#)
+[![GitHub forks](https://img.shields.io/github/forks/Paguiar735/jarvis-readme-template?style=for-the-badge)](#)
+[![GitHub open issues](https://img.shields.io/github/issues/Paguiar735/jarvis-readme-template?style=for-the-badge)](#)
+[![GitHub open pull requests](https://img.shields.io/github/issues-pr/Paguiar735/jarvis-readme-template?style=for-the-badge)](#)
 
 
 
